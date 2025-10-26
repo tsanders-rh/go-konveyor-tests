@@ -1,3 +1,6 @@
 .vscode/
 .idea/
 analysis/tmp_output
+
+# Local configuration files (use for personal test configs)
+*.local
